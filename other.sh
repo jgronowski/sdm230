@@ -2,7 +2,7 @@
 #title           :orange.sh
 #description     :Read values from SDM230 and sends it to Domoticz.
 #author		 :jgronowski
-#date            :20160605
+#date            :20171123
 #version         :0.1
 #usage		 :./orange.sh
 #notes           :
